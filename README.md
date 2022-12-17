@@ -23,11 +23,11 @@
 
 **Stats:**  
 <div align="center">
-<a href="https://github.com/amixubaer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amixubaer&theme=light&hide_langs_below=1" />
+<a href="https://github.com/Tanveeriftii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveeriftii&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/amixubaer">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amixubaer&show_icons=true&theme=light&line_height=27" alt="Jubaer's's github stats"/>
+<a href="https://github.com/Tanveeriftii">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanveeriftii&show_icons=true&theme=light&line_height=27" alt="Tanveer's github stats"/>
 </a>
 
 </div>
