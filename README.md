@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kh. Tanveer Iftekhar</h1>
+<h3 align="center">Passionate about software requirement analysis, software quality assurance and testing.</h3>
 
 - 🔭 I’m currently working on **Software testing**
 
