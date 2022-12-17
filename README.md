@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kh. Tanveer Iftekhar</h1>
 <h3 align="center">Passionate about software requirement analysis, software quality assurance and testing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveerifti&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerifti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveeriftii&label=Profile%20views&color=0e75b6&style=flat" alt="tanveeriftii" /> </p>
 
 - 🔭 I’m currently working to **Improve my skills**
 
