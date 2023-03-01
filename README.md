@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working to **Improve my skills**
 
-- 🌱 I’m currently learning **API Testing, Laravel & React**
+- 🌱 I’m currently learning **APPIUM Testing, Laravel & React**
 
 - 💬 Ask me about **Software Testing**
 
