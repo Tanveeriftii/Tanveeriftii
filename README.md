@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Testing**
 
-- 📫 Reach me at **tvir671@gmail.com** **https://www.linkedin.com/in/kh-tanveer-iftekhar-74362b1a6"**
+- 📫 Reach me at **tvir671@gmail.com** 
 
 - ⚡ Fun fact **I love Cats!**
 
