@@ -1,11 +1,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=tanveeriftii.tanveeriftii)
 
 <h1 align="center">Hi 👋, I'm Kh. Tanveer Iftekhar</h1>
-<h3 align="center">Passionate about software requirement analysis, software quality assurance and testing.</h3>
+<h3 align="center">Passionate about Software Quality Assurance and Testing.</h3>
 
 - 🔭 I’m currently working to **Improve my skills**
 
-- 🌱 I’m currently learning **APPIUM Testing, Laravel & React**
+- 🌱 I’m currently learning **API Testing, Automation Testing**
 
 - 💬 Ask me about **Software Testing**
 
